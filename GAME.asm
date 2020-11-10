@@ -1,6 +1,6 @@
-#include io.asm
-#include console.asm
-#include time.asm
+include io.asm
+include console.asm
+include time.asm
 
 .model small
 .stack 100h
